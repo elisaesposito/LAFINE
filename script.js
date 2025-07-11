@@ -1,0 +1,1 @@
+// Contenuto fittizio per script.js
